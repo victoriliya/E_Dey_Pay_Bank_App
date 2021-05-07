@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\bin\Debug\netcoreapp3.1\CGLogistics.Utilities.deps.json
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\bin\Debug\netcoreapp3.1\CGLogistics.Utilities.dll
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\bin\Debug\netcoreapp3.1\CGLogistics.Utilities.pdb
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\obj\Debug\netcoreapp3.1\CGLogistics.Utilities.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\obj\Debug\netcoreapp3.1\CGLogistics.Utilities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\obj\Debug\netcoreapp3.1\CGLogistics.Utilities.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\obj\Debug\netcoreapp3.1\CGLogistics.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\obj\Debug\netcoreapp3.1\CGLogistics.Utilities.dll
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Utilities\obj\Debug\netcoreapp3.1\CGLogistics.Utilities.pdb

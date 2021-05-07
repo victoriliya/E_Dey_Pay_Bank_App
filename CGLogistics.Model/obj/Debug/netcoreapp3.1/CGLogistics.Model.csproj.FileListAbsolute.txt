@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\bin\Debug\netcoreapp3.1\CGLogistics.Model.deps.json
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\bin\Debug\netcoreapp3.1\CGLogistics.Model.dll
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\bin\Debug\netcoreapp3.1\CGLogistics.Model.pdb
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\obj\Debug\netcoreapp3.1\CGLogistics.Model.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\obj\Debug\netcoreapp3.1\CGLogistics.Model.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\obj\Debug\netcoreapp3.1\CGLogistics.Model.AssemblyInfo.cs
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\obj\Debug\netcoreapp3.1\CGLogistics.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\obj\Debug\netcoreapp3.1\CGLogistics.Model.dll
+C:\Users\hp\Desktop\Decagon\week 6\CGLogistics.Model\obj\Debug\netcoreapp3.1\CGLogistics.Model.pdb
